@@ -1,0 +1,43 @@
+footer{
+
+}
+img{
+	width: 95%;
+	height:95%;
+}
+.maindiv{
+	text-align: justify;
+	margin: 5%;
+	padding:5% ;
+	
+} 
+.titulo{
+display:flex;
+ justify-content:flex-start;
+}
+.paragrafo{
+display: flex;
+padding: 0%;
+}
+.imagemlista{
+margin:1%;
+padding:1%;
+display: flex;
+justify-content:flex-start; 
+align-items:flex-end;
+flex-direction:row-reverse;
+}
+.imagem{
+margin:1%;
+padding:1%;
+}
+.lista{
+display: flex;
+justify-content:flex-start; 
+align-items:flex-start;
+flex-direction:  column;
+}
+.imagem2{
+ background:url('/home/vai-na-web-2/Documentos/2/imagem2.jpeg');
+ 
+}
